@@ -252,6 +252,7 @@ POST   /payments/
 ---
 
 ## 📁 PROJECT STRUCTURE
+```
 
 cyber_store_api/
 ├── apps/
@@ -267,6 +268,7 @@ cyber_store_api/
 ├── .env.example
 ├── requirements.txt
 ├── README.md
+```
 
 
 ## 📌 ALL ENDPOINTS (FULL LIST)
